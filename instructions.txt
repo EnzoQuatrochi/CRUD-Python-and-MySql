@@ -1,0 +1,3 @@
+Crie uma tabela usando o código em projectext.sql no MySQL e conecte com o programa na pasta controller.
+
+Create a table using the code in projetoext.sql in the MySQL and connect with the program in the folder controller.
