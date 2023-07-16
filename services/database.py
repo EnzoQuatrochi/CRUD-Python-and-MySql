@@ -1,9 +1,9 @@
 import mysql.connector
 
 conexao = mysql.connector.connect(
-    host='localhost',
-    user='root',
-    password='0709',
+    host='add here your sql host',
+    user='add here your sql user',
+    password='Add here your sql password',
     database='projetoext',
 )
 
